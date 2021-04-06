@@ -12,7 +12,7 @@ function App() { // eslint-disable-line
             <header className='App-header'>
                 <img src={logo} className='App-logo' alt='logo' />
                 <p>
-                    Edit <code>src/App.js</code> and save to reload.
+                    let's create a new web by react.
                 </p>
                 <a
                     className='App-link'
